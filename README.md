@@ -2,6 +2,9 @@
 
 This is a simple Tic-Tac-Toe game developed using HTML, CSS, and JavaScript. It features a clean interface and interactive gameplay, making it a fun project to both develop and play.
 
+## Author 
+ **Akshay Sharma**
+ 
 ## Features
 
 - Classic 3x3 grid Tic-Tac-Toe game
